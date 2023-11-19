@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://fb.com/electrovilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="electrovilla" height="30" width="40" /></a>
 <a href="https://instagram.com/electro_villayt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="electro_villayt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@electrovilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@electrovilla" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/indianelectronics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="indianelectronics" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gauravpant033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauravpant033" height="30" width="40" /></a>
 </p>
 
