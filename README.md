@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pant</h1>
 <h3 align="center">A funtime YouTuber & developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=electrovillayt" alt="electrovillayt" /></a> </p>
-
 - 👨‍💻 Few of my projects are available at my YouTube Channel [https://www.youtube.com/@ElectroVilla](https://www.youtube.com/@ElectroVilla)
 
 - 📫 How to reach me **electrovillaofficial@gmail.com**
