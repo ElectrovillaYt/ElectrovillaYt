@@ -1,4 +1,4 @@
-# Hi 👋 im Gaurav Pant
+# Hi 👋 I'm Gaurav Pant
 
 # 💫 About Me:
 ### CSE Student
