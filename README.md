@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 ### CSE Student
-### Funtime YouTuber/ Hardware & Web Developer
+### Funtime YouTuber/ Hardware & Web Developer @Electrovilla
 ### Currently working on LoRa Chain Based Streetlight Mapping/Monitoring System
 
 ## 🌐 Socials:
